@@ -28,9 +28,9 @@ Reconstruct a **Market-by-Price (MBP-10)** orderbook from a **Market-by-Order (M
 ## 📁 Repository Structure
 
 ```bash
-quant_dev_trial/
+Quant_MBP_MBO
 ├── Makefile            # Build script
-├── README.md           # This documentation
+├── Readme.md           # This documentation
 ├── reconstruction.cpp  # C++ source code
 ├── mbo.csv             # Sample MBO input data
 └── mbp_output.csv      # Generated MBP-10 output
