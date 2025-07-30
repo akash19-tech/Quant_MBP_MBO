@@ -68,5 +68,5 @@ This project reconstructs a Market-by-Price (MBP-10) orderbook from Market-by-Or
 
 ## License & Contact
 
-* (Your Name) © 2025
-* Questions or issues? Contact: [akash.m@example.com](mailto:akash.m@example.com)
+* Akash © 2025
+* Questions or issues? Contact: [aakuakash091@gmail.com](mailto:aakuakash091@gmail.com)
